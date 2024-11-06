@@ -17,7 +17,6 @@ The dataset includes yellow and green taxi trip records with details on pick-up/
 
 ![Dashboard](./images/dag.png)
 
-DAGs orchestrate the flow of data, from loading the raw files into Cloud Storage, through transformations in BigQuery, and finally into dbt models for further processing.
 
 
 
